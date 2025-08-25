@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # whoop_vs_nrc
 This notebook explores and analyzes data from both Nike Running Club and WHOOP. 
 =======
@@ -8,12 +7,12 @@ Additionally, I wore a WHOOP fitness tracker 24/7 throughout the challenge. WHOO
 
 Purpose of the Analysis
 This notebook explores and analyzes data from both Nike Running Club and WHOOP with the following objectives:
-- Evaluate WHOOP's Run Detection Accuracy
-- Analyze how accurately WHOOP identified running activities on days I actually went for a run, as tracked by the Nike app.
-- Track Running Progress
-- Visualize and summarize my running activity over the 100-day challenge.
-- Integrate WHOOP and Running Data
-- Combine running session data with WHOOP metrics (e.g. HRV, sleep, recovery) to explore how physical strain from runs might be reflected in physiological indicators.
+* Evaluate WHOOP's Run Detection Accuracy
+* Analyze how accurately WHOOP identified running activities on days I actually went for a run, as tracked by the Nike app.
+* Track Running Progress
+* Visualize and summarize my running activity over the 100-day challenge.
+* Integrate WHOOP and Running Data
+* Combine running session data with WHOOP metrics (e.g. HRV, sleep, recovery) to explore how physical strain from runs might be reflected in physiological indicators.
 
 # Data Sources
 1. Nike Running Club Export
@@ -38,4 +37,3 @@ WHOOP does not always explicitly label runs as “running” — part of the ana
 # Key Questions
 1. Can we trust WHOOP to automatically detect running sessions accurately?
 2. TBD: How do WHOOP metrics (e.g., recovery, HRV, sleep) correlate with running effort and frequency?
->>>>>>> 8a349c5 (whoop and nrc data analysis init)
